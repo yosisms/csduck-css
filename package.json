@@ -1,0 +1,22 @@
+{
+  "name": "@csduck/css",
+  "version": "1.0.0",
+  "description": "A base library for css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yosisms/csduck-css.git"
+  },
+  "keywords": [
+    "css"
+  ],
+  "author": "Yosi Shemesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yosisms/csduck-css/issues"
+  },
+  "homepage": "https://github.com/yosisms/csduck-css#readme"
+}
