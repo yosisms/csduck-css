@@ -1,0 +1,26 @@
+{
+  "name": "@csduck/css",
+  "version": "1.0.0",
+  "description": "A base library for css",
+  "main": "index.js",
+  "scripts": {
+    "build": "sass ./scss/main.scss ./lib/main.css",
+    "dev": "sass --watch ./scss/main.scss ./lib/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yosisms/csduck-css.git"
+  },
+  "keywords": [
+    "css"
+  ],
+  "author": "Yosi Shemesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yosisms/csduck-css/issues"
+  },
+  "homepage": "https://github.com/yosisms/csduck-css#readme",
+  "dependencies": {
+    "sass": "^1.55.0"
+  }
+}
